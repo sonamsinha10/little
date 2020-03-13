@@ -7,6 +7,7 @@ gate
 cat
 java
 
-
+php
+mysql
 
 thankyou!
